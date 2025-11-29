@@ -1,0 +1,7 @@
+numpy
+gym
+torch
+torchvision
+pywin32
+opencv-python
+keyboard
